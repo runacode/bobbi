@@ -1,7 +1,7 @@
-<?php $company = "MAMA NEMS SOUL FOOD RESTAURANT";
-$phone = "(407) 253-7744";
-	$address1 = "805 S KIRKMAN RD STE 106";
-	$address2 = "ORLANDO, FL 32811";
+<?php $company = "BOBBI SUE BBQ";
+$phone = "(561) 838-6130";
+	$address1 = "223 CLEMATIS ST";
+	$address2 = "WEST PALM BEACH, FL 33401";
 ?>
 <!DOCTYPE html>
 <html style="font-size: 16px;">
